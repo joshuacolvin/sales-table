@@ -6,4 +6,4 @@ const filterDataByQuarter = (selectedQuarters, data) => {
   );
 };
 
-export { filterDataByQuarter };
+export default filterDataByQuarter;

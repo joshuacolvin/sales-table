@@ -12,11 +12,7 @@ const interpreter = (machine) => {
 
       return nextState;
     },
-    reset() {
-      currentState = machine.initial;
-      return currentState;
-    },
   };
 };
 
-export { interpreter };
+export default interpreter;

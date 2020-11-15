@@ -18,4 +18,4 @@ const createTableRow = (item) => {
   return tr;
 };
 
-export { render };
+export default render;
