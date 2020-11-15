@@ -6,4 +6,4 @@ This application uses JavaScript modules which will not work on the local file s
 npx serve
 ```
 
-A hosted version of the application can also be found [here](https://infallible-mcclintock-9bab61.netlify.app/)
+A hosted version of the application can also be found [here](https://dreamy-mahavira-c6e346.netlify.app/)
