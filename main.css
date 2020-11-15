@@ -2,6 +2,7 @@
   --black: #1b2222;
   --blue: #3e4aec;
   --grey: #ebebeb;
+  --lavender: #bdc9ff;
   --white: #fff;
 }
 
@@ -37,6 +38,11 @@ a {
   color: var(--white);
   text-decoration: none;
   padding: 4px;
+}
+
+a:hover,
+[role='button']:hover {
+  color: var(--lavender);
 }
 
 .badge {
